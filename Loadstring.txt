@@ -1,0 +1,2 @@
+_G.autoload = "config name" -- delete if you dont want to auto load a config
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UmurTheCoder/RosemocLeak/main/RosemocLeak.txt"))()
