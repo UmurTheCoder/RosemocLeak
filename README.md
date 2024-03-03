@@ -1,4 +1,5 @@
 # RosemocLeak
+[DISCONTINUED]
 Thanks to Azurium-js, I could find this deleted project.
 who even fucking reads 'README' lmfao
 
